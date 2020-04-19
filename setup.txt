@@ -1,0 +1,11 @@
+NOTE: You can view the source code of this really easily - if you think it is a rat, then you're braindead.
+
+Step 1) Extract the Archive
+Step 2) Install Node.js (https://nodejs.org/en/)
+Step 3) Install the dependencies (npm i request request-promise mysql)
+Step 4) Run it via Command Prompt (node main)
+Step 5) Spread the code everywhere to prevent retards from selling it for $15-25
+
+If you have any issues feel free to message me on Discord (https://discord.gg/UakTsXA)
+
+MAKE SURE YOUR COMMAND PROMPT IS IN THE SAME DIRECTORY AS THE BRUTER
